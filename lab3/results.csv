@@ -1,5 +1,5 @@
 Завдання,Модель,Метрика,Результат
-3.2 Mini-GPT,minigpt_v1 (Small),val_loss,ВСТАВ_СВІЙ_VAL_LOSS_ТУТ
-3.2 Mini-GPT,minigpt_v2 (Medium),val_loss,ВСТАВ_СВІЙ_VAL_LOSS_ТУТ
+3.2 Mini-GPT,minigpt_v1 (Small),val_loss,7.4569
+3.2 Mini-GPT,minigpt_v2 (Medium),val_loss,7.3059
 5.2 Класифікація,mDeBERTa-v3-base-mnli-xnli,Accuracy,1.0
 5.2 Класифікація,multilingual-MiniLMv2-L6-mnli-xnli,Accuracy,0.8125
