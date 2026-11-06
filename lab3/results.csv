@@ -4,3 +4,4 @@
 3.2 Mini-GPT,minigpt_v3 (Deep),val_loss,7.3668
 5.2 Класифікація,mDeBERTa-v3-base-mnli-xnli,Accuracy,0.9
 5.2 Класифікація,multilingual-MiniLMv2-L6-mnli-xnli,Accuracy,0.65
+
